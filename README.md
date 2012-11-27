@@ -1,4 +1,4 @@
 BubbleBot
 =========
 
-BubbleBot Arduino COde
+BubbleBot Arduino Code
